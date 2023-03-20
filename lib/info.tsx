@@ -1,11 +1,11 @@
 import me from '../app/avatar.jpg';
 
-export const name = 'Lee Robinson';
+export const name = 'Mark Sikaundi';
 export const avatar = me;
 export const about = () => {
   return (
     <>
-      Hey, I'm Lee. I'm the <b>VP of Developer Experience at Vercel</b> where my
+      Hey, I'm Mark Sikaundi. I'm the <b>VP of Developer Experience at Vercel</b> where my
       team helps developers build a faster web.
     </>
   );
