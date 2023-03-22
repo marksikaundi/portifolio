@@ -16,8 +16,8 @@ const AboutMe = () => {
             <br />
             I'm a dedicated <span>Software Engineer</span> who specializes in Fullstack, Software Testing & Technicall Writing.
             <br />
-            <br /> I found my passion for programming at the end of 2018, and in
-            2019 I joined an online software program called{' '}
+            <br /> I found my passion for programming at the end of 2016, and in
+            2018 I joined an online software program called{' '}
             <span>CS50</span>, where I studied{' '}
             <span>Introduction to Computer science</span>. <br />
             <br />
