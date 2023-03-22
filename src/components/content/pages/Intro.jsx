@@ -12,14 +12,14 @@ const Intro = () => {
       <Box sx={styles.introText}>
         <Box sx={styles.title}>
           <Typography sx={styles.h1} variant="h1">
-            Virag Kormoczy
+            Mark Sikaundi
           </Typography>
           <Typography sx={styles.h2} variant="h2">
             Full-Stack <span style={{ color: '#1495ff' }}>JavaScript</span>{' '}
             Developer
           </Typography>
           <Typography sx={styles.h3} variant="h3">
-            Web Development | Technical Writing
+            Software Engineer | QA Engineer | Technical Writing
           </Typography>
           <Box sx={styles.introIcons}>
             <img
