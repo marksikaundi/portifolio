@@ -2,7 +2,7 @@
 
 > This is my personal portfolio where I showcase some of my projects and articles. Built with React and Material UI.
 
-### Live site: https://virag-ky-portfolio.netlify.app/
+### Live site: https://marksikaundi.com/
 
 ## Built with:
 
@@ -12,7 +12,7 @@
 - CSS3
 
 ## Screenshot
-![Screenshot from 2023-03-21 23-54-35](https://user-images.githubusercontent.com/79658534/226750320-ae2c911f-2e08-46c3-b82a-a66b14697dfe.png)
+![Screenshot from 2023-03-21 23-54-35]()
 
 
 ## Icons:
