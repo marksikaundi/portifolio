@@ -11,11 +11,10 @@ const AboutMe = () => {
         <br />
         <Box sx={styles.paraContainer}>
           <Typography sx={styles.p} variant="body1">
-            Hello, I'm Virag!
+            Hello, I'm Mark!
             <br />
             <br />
-            I'm a dedicated <span>software developer</span> who specializes in
-            web development.
+            I'm a dedicated <span>Software Engineer</span> who specializes in Fullstack, Software Testing & Technicall Writing.
             <br />
             <br /> I found my passion for programming at the end of 2021, and in
             2022 I joined an online software program called{' '}
