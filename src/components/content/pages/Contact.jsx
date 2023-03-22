@@ -22,17 +22,17 @@ const Contact = () => {
     {
       id: 0,
       icon: <GitHubIcon sx={{ fontSize: { lg: '35px', xs: '22px' } }} />,
-      link: 'https://github.com/virag-ky',
+      link: 'https://github.com/marksikaundi',
     },
     {
       id: 1,
       icon: <TwitterIcon sx={{ fontSize: { lg: '35px', xs: '22px' } }} />,
-      link: 'https://twitter.com/Virag_Ky',
+      link: 'https://twitter.com/Alisikaundi',
     },
     {
       id: 2,
       icon: <LinkedInIcon sx={{ fontSize: { lg: '35px', xs: '22px' } }} />,
-      link: 'https://www.linkedin.com/in/virag-kormoczy/',
+      link: 'https://www.linkedin.com/in/marksikaundi',
     },
   ];
 
