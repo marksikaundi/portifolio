@@ -16,10 +16,10 @@ const AboutMe = () => {
             <br />
             I'm a dedicated <span>Software Engineer</span> who specializes in Fullstack, Software Testing & Technicall Writing.
             <br />
-            <br /> I found my passion for programming at the end of 2021, and in
-            2022 I joined an online software program called{' '}
-            <span>Microverse</span>, where I studied{' '}
-            <span>full-stack web development</span>. <br />
+            <br /> I found my passion for programming at the end of 2018, and in
+            2019 I joined an online software program called{' '}
+            <span>CS50</span>, where I studied{' '}
+            <span>Introduction to Computer science</span>. <br />
             <br />
             During my time in the program, I gained essential technical and soft
             skills, for example, in <span>HTML5</span>, <span>CSS3/SCSS</span>,{' '}
@@ -47,7 +47,7 @@ const AboutMe = () => {
             <br />
             <br />I provide professional services in{' '}
             <span>web development</span> and <span>technical writing</span>,
-            specializing in the <span>JavaScript</span> programming language and
+            specializing in the <span>Python, C & JavaScript</span> programming language and
             the <span>MERN stack</span> (MongoDB, Express, React, NodeJS).
             Whether you need a new website developed, an existing site updated,
             or technical documents written, I have the skills and expertise to
