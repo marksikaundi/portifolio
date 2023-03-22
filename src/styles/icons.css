@@ -1,0 +1,31 @@
+.introIcon {
+  width: 20%;
+}
+
+#mongodb {
+  width: 5%;
+  transition: transform 0.8s;
+}
+
+#mongodb:hover {
+  transform: rotate(45deg);
+  cursor: pointer;
+}
+
+#react {
+  width: 10%;
+  transition: transform 2s;
+}
+
+#react:hover {
+  transform: rotate(180deg);
+  cursor: pointer;
+}
+
+#node {
+  margin-top: -10px;
+}
+
+.socialIcons {
+  width: unset;
+}
